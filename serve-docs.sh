@@ -1,0 +1,1 @@
+venv/scripts/python.exe -m pdoc repomint_mint

@@ -4,4 +4,4 @@ Flask-Script
 python-dotenv
 flask-cors
 solana
-metaplex @ git+git://git@github.com/repomint/metaplex-api.git@master
+metaplex @ git+https://github.com/repomint/metaplex-api.git@master
